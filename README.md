@@ -14,5 +14,6 @@ Especially, I am familiar with Full-Stack Web Development. Here is a few things 
 | Backend |  ![Rust](https://img.shields.io/badge/Rust-black?style=flat-square&logo=rust&logoColor=#E57324)  ![Golang](https://img.shields.io/badge/-Golang-blue?style=flat-square&logo=go&logoColor=white)  ![Redis](https://img.shields.io/badge/-Redis-red?style=flat-square&logo=redis&logoColor=white)  ![MongoDB &amp; Atlas](https://img.shields.io/badge/-MongoDB%20&amp;%20Atlas-green?style=flat-square&logo=mongodb&logoColor=white)  |
 | Frontend |  ![ReactJS](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)  ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)  ![NextJS](https://img.shields.io/badge/next.js-000000?style=flat-square&logo=nextdotjs&logoColor=61DAFB)  ![VueJS](https://img.shields.io/badge/-VueJS-green?style=flat-square&logo=vue.js&logoColor=white)  ![Nuxt](https://img.shields.io/badge/-Nuxt-green?style=flat-square&logo=nuxt.js&logoColor=white)  ![Realm DB](https://img.shields.io/badge/-Realm%20DB-purple?style=flat-square&logo=realm&logoColor=white)  ![Typescript](https://img.shields.io/badge/-Typescript-blue?style=flat-square&logo=typescript&logoColor=white)  |
 
-🌃 Skype ID: live:.cid.c263e3d29dbe1ee8
-📧 Email: devninja.up@gmail.com
+🌃 Skype ID: live:.cid.1e41a3b85b4a0208
+📧 Email: wilfredochucon36@gmail.com
+
