@@ -15,5 +15,6 @@ Especially, I am familiar with Full-Stack Web Development. Here is a few things 
 | Frontend |  ![ReactJS](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)  ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)  ![NextJS](https://img.shields.io/badge/next.js-000000?style=flat-square&logo=nextdotjs&logoColor=61DAFB)  ![VueJS](https://img.shields.io/badge/-VueJS-green?style=flat-square&logo=vue.js&logoColor=white)  ![Nuxt](https://img.shields.io/badge/-Nuxt-green?style=flat-square&logo=nuxt.js&logoColor=white)  ![Realm DB](https://img.shields.io/badge/-Realm%20DB-purple?style=flat-square&logo=realm&logoColor=white)  ![Typescript](https://img.shields.io/badge/-Typescript-blue?style=flat-square&logo=typescript&logoColor=white)  |
 
 🌃 Skype ID: live:.cid.1e41a3b85b4a0208
-📧 Email: wilfredochucon36@gmail.com
+📧 Email: bogdankolomiyetsss@gmail.com
+
 
