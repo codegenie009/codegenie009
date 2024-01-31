@@ -1,5 +1,5 @@
 <h3>Welcome to my page!</h3> </br> <p><h4>I am a Fullstack developer and I've been developing for 10+ years.<br>
-I have wide experience in C#, javascript, PHP and python.<br></h4>
+I have wide experience in Fullstack development.<br></h4>
 My main skills are:<br>
 - Backend: Node.js(ExpressJS, NestJS), C#(ASP.NET, .Net Core), Python(Django)<br>
 - Frontend: React, Next.js, AngularJS<br>
